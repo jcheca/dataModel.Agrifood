@@ -1,8 +1,10 @@
-# AgriMill
+# dataModel.AgriMill
 
-## Description
+## List of data models
 
 ......
 
-### Specification
+## Contributors
+
+## Contribution
 
