@@ -6,7 +6,7 @@ These folders contain a list of data models related to the modeling of an oil mi
 
 The following entity types are available:
 
-- [selfcleaningPump] (https://github.com/jcheca/dataModel.Agrifood/tree/master/AgriMill/selfCleaningPump)
+- [selfcleaningPump](https://github.com/jcheca/dataModel.Agrifood/tree/master/AgriMill/selfCleaningPump)
 
 ## Incubated data models
 
