@@ -1,4 +1,4 @@
-# selfCleaningPump
+# selfcleaningPump
 
 Visit model.yaml for further info on the description
 

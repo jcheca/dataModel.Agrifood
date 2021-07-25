@@ -6,7 +6,7 @@ These folders contain a list of data models related to the modeling of an oil mi
 
 The following entity types are available:
 
-- selfCleaningPump
+- selfcleaningPump
 
 ## Incubated data models
 
