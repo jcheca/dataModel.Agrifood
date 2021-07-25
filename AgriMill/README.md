@@ -4,10 +4,19 @@ These folders contain a list of data models related to the modeling of an oil mi
 
 ## List of data models
 
-- transferPump.test
+The following entity types are available:
+
 - selfCleaningPump
+
+## Incubated data models
+
+The list of incubated (on development) data models are:
+
+- transferPump.test
 
 ## Contributors
 
 ## Contribution
+
+You can raise an issue or submit your PR on existing data models
 
