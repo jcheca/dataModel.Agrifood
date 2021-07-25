@@ -3,6 +3,7 @@
 ## List of data models
 
 - transferPump.test
+- selfCleaningPump
 
 ## Contributors
 
