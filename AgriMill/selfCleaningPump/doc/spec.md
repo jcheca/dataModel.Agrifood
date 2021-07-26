@@ -11,6 +11,6 @@ Global description: Information on a given selfcleaningPump
 - watterTemp: Cleaning water temperature. (degrees Celsius).
 - watterTurbidity: water turbidity corresponding to impedance level.
 - motorFrequency: Motor frequency. (Hz)
-- motorIntensity: Montor Intensity.
+- motorIntensity: Montor Intensity. (Amp)
 - oilQuantity: Amount of programmed transfer oil. (L)
 - oilCategory: Processed oil category. Enum: 'extra,virgin,normal,orujo'
