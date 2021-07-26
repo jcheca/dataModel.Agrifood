@@ -4,7 +4,7 @@ Open License
 
 Global description: Information on a given selfcleaningPump
 
-## List of properties
+## List of fundamental properties
 
 - statusMode: Enum: 'cleaning, transfer, off'
 - oilFlow: Oil flow in transfer measured in liters per hour (L/H).
